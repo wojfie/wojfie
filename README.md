@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+### It's WOLFIE
+
+- 🌱 I’m currently learning Cyber Security
 <!--
 **wojfie/wojfie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
